@@ -1,0 +1,4 @@
+Revising callback and promise
+asynchronous function ko handle karne ke liye callback aur promise use karte hai
+call back hell- nested callback
+error first callback means first argument will always be an error
