@@ -1,0 +1,13 @@
+mongoose - odm (object ko document se map karta hai ye), mongodb database se connect karne mai help karta hai node js mai or crud operations perform kar sake
+
+schema - structure (model folder mai banayenge hum)
+
+model ek class hoti hai - ye padhna hai chatgpt se
+
+save function ke baare mai bhi padhna hai
+find ka bhi padhna hai 
+findbyid & findone ka difference (findone se hum kisi bhi attribute se find kar sakte hai)
+
+mongodb hamara bson (binary json) form mai data store karta hai 
+
+Homework - same file ke andar hamen users schema banana hai (email, username, password) or vahi sab karvana hai phir aapa ne, same change karni hai jaise blogs ka hai vaise hi users ka banana hai
